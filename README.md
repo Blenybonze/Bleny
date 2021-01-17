@@ -6,7 +6,7 @@ Hoje estudo por conta propria cerca de 3 horas/dia.
 
 - 🎓 Estudo JavaScript em sua maioria. 
 - 💻 Atualmente crio projetos utiizando JS, Css e HTML. 
-- 👦💻 Meu foco como profissional é me tornar um dev fullstack. 
+- 👦💻 Meu foco como profissional é me tornar um dev fullstack utilizando o ecossistema JavaCript. 
 
 
 
